@@ -1,0 +1,16 @@
+.ant-checkbox-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.ant-checkbox-wrapper span {
+    font-weight: 600;
+    font-size: larger;
+}
+
+.ant-checkbox-inner {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+
